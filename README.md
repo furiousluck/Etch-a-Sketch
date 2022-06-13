@@ -2,4 +2,4 @@
 
 Made using JS,HTML and CSS.
 
-[LIVE DEMO]([url](https://furiousluck.github.io/Etch-a-Sketch/))
+[LIVE DEMO](https://furiousluck.github.io/Etch-a-Sketch/)
